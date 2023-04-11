@@ -1,5 +1,5 @@
 import java.awt.*;
-import javax.swing.*;
+import java.swing.*;
 
 public class Main extends JWindow {
    Image splashScreen;
